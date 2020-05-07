@@ -6,5 +6,6 @@ public class Usage {
         User user = new User();
         Menu.welcomeMessage();
         ChooseOptions.chooseOptions(defaultUser);
+        System.out.println("test");
     }
 }
